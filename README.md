@@ -2,7 +2,8 @@
 
 Welcome to the Omnifood project! This repository contains the codebase for a modern, fully responsive food delivery website. The website is designed to showcase the features of a fictional food delivery service called "Omnifood" and highlights a modern, user-friendly design optimized for performance and accessibility.
 
-## Table of Contents ---
+## Table of Contents
+
 - [Project Overview](#project-overview)
 - [Live Demo](#live-demo)
 - [Features](#features)
@@ -105,6 +106,10 @@ Check out the live version of the project [here](https://omnifood-rakesh.netlify
 ## Folder Structure
 ```
 Omnifood/
+├── css/
+│   ├── general.css
+│   ├── queries.css
+│   ├── styles.css 
 ├── images/
 │   ├── app/
 │   ├── customers/
@@ -117,13 +122,9 @@ Omnifood/
 │   ├── favicon.ico
 │   ├── hero.png
 │   ├── omnifood-logo.png
-├── index.html
-├── css/
-│   ├── general.css
-│   ├── queries.css
-│   ├── styles.css 
 ├── js/
 │   └── script.js
+├── index.html
 └── README.md
 ```
 
