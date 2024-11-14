@@ -1,7 +1,3 @@
-Here’s the structured order for your Omnifood project:
-
----
-
 # Omnifood
 
 Welcome to the Omnifood project! This repository contains the codebase for a modern, fully responsive food delivery website. The website is designed to showcase the features of a fictional food delivery service called "Omnifood" and highlights a modern, user-friendly design optimized for performance and accessibility.
