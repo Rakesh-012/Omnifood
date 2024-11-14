@@ -3,7 +3,8 @@
 Welcome to the Omnifood project! This repository contains the codebase for a modern, fully responsive food delivery website. The website is designed to showcase the features of a fictional food delivery service called "Omnifood" and highlights a modern, user-friendly design optimized for performance and accessibility.
 
 ## Table of Contents
----
+--
+
 - [Project Overview](#project-overview)
 - [Live Demo](#live-demo)
 - [Features](#features)
@@ -16,17 +17,17 @@ Welcome to the Omnifood project! This repository contains the codebase for a mod
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
----
+--
 
 Omnifood is a responsive, modern web application designed to make healthy eating convenient and accessible. Users can select from AI-curated meal plans that match their dietary needs and lifestyle, ensuring they receive fresh, nutritious meals with minimal effort. The platform emphasizes sustainability by sourcing fresh, local ingredients and using eco-friendly packaging.
 
 ## Live Demo
----
+--
 
 Check out the live version of the project [here](https://omnifood-rakesh.netlify.app/).
 
 ## Features
----
+--
 
 ### Modern and Responsive Design
 - Fully responsive layout that adapts seamlessly across desktops, tablets, and mobile devices.
@@ -56,7 +57,7 @@ Check out the live version of the project [here](https://omnifood-rakesh.netlify
 - Utilizes **JavaScript** for modal pop-ups and other interactive components.
 
 ## Screenshots
----
+--
 
 ### Homepage
 ![Homepage](https://github.com/user-attachments/assets/c0e14fc5-16a6-4361-87b9-a18373556b6d)
@@ -85,7 +86,7 @@ Check out the live version of the project [here](https://omnifood-rakesh.netlify
 **Note**: For an optimal viewing experience, the zoom size has been decreased (less than 100%) for some pages' screenshots. 
 
 ## Technologies Used
----
+--
 
 - **HTML5**: For structuring content.
 - **CSS3**: For styling and layout (using Flexbox and Grid).
@@ -95,7 +96,7 @@ Check out the live version of the project [here](https://omnifood-rakesh.netlify
 - **Git & GitHub**: Version control and project hosting.
 
 ## Usage
----
+--
 
 1. **Homepage**
    - Displays an eye-catching hero section with a call-to-action.
@@ -112,6 +113,7 @@ Check out the live version of the project [here](https://omnifood-rakesh.netlify
    - Reach out through social media links or the provided contact form in the footer.
 
 ## Folder Structure
+--
 ```
 Omnifood/
 ├── images/
@@ -144,12 +146,12 @@ Omnifood/
 - **js/**: JavaScript file for adding interactivity.
 
 ## License
----
+--
 
 This project is open-source and available under the **MIT License**.
 
 ## Acknowledgements
----
+--
 
 - [Font Awesome](https://fontawesome.com/) for icons.
 - [Unsplash](https://unsplash.com/) for high-quality images.
