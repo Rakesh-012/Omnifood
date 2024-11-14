@@ -2,7 +2,7 @@
 
 Welcome to the Omnifood project! This repository contains the codebase for a modern, fully responsive food delivery website. The website is designed to showcase the features of a fictional food delivery service called "Omnifood" and highlights a modern, user-friendly design optimized for performance and accessibility.
 
-## Table of Contents
+## Table of Contents --
 
 - [Project Overview](#project-overview)
 - [Live Demo](#live-demo)
@@ -11,9 +11,7 @@ Welcome to the Omnifood project! This repository contains the codebase for a mod
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 
@@ -66,7 +64,7 @@ Check out the live version of the project [here](https://omnifood-rakesh.netlify
 ![How it works](https://github.com/user-attachments/assets/07abf274-1efd-45bb-9032-177339534ea5)
 
 ### Meal Section
-![Meal Section]![image](https://github.com/user-attachments/assets/1e4782cf-2e2d-4307-bd1c-eb83dbbad800)
+![Meal Section](https://github.com/user-attachments/assets/1e4782cf-2e2d-4307-bd1c-eb83dbbad800)
 
 ### Testimonials
 ![Testimonials](https://github.com/user-attachments/assets/32e091e5-a70c-4826-8867-c6635287a9c9)
@@ -140,9 +138,3 @@ Omnifood/
 ## License
 
 This project is open-source and available under the **MIT License**.
-
-## Acknowledgements
-
-- [Font Awesome](https://fontawesome.com/) for icons.
-- [Unsplash](https://unsplash.com/) for high-quality images.
-- [Google Fonts](https://fonts.google.com/) for typography.
