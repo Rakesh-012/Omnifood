@@ -4,7 +4,6 @@ Welcome to the Omnifood project! This repository contains the codebase for a mod
 
 ## Table of Contents
 ---
-
 - [Project Overview](#project-overview)
 - [Live Demo](#live-demo)
 - [Features](#features)
