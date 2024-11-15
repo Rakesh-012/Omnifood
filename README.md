@@ -7,11 +7,10 @@ Welcome to the Omnifood project! This repository contains the codebase for a mod
 - [Project Overview](#project-overview)
 - [Live Demo](#live-demo)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
-- [License](#license)
+- [Screenshots](#screenshots)
 
 ## Project Overview
 
@@ -50,34 +49,6 @@ Check out the live version of the project [here](https://omnifood-rakesh.netlify
 - Interactive photo gallery with lightbox functionality for viewing full-sized images.
 - Utilizes **JavaScript** for modal pop-ups and other interactive components.
 
-## Screenshots
-
-### Homepage
-![Homepage](https://github.com/user-attachments/assets/c0e14fc5-16a6-4361-87b9-a18373556b6d)
-
-### Featured In Section
-![Featured In Section](https://github.com/user-attachments/assets/a5144c45-9b09-4690-aa95-cb1da221a0a0)
-
-### How it works
-![How it works](https://github.com/user-attachments/assets/75b7d4d4-e6ef-4980-97fd-70b314163b37)
-![How it works](https://github.com/user-attachments/assets/91c8bc20-e5c2-4121-af1a-f6603b367436)
-![How it works](https://github.com/user-attachments/assets/07abf274-1efd-45bb-9032-177339534ea5)
-
-### Meal Section
-![Meal Section](https://github.com/user-attachments/assets/1e4782cf-2e2d-4307-bd1c-eb83dbbad800)
-
-### Testimonials
-![Testimonials](https://github.com/user-attachments/assets/32e091e5-a70c-4826-8867-c6635287a9c9)
-![Testimonials](https://github.com/user-attachments/assets/fcdf2519-9aaf-4d33-93fa-9c9cc632fc9f)
-
-### Pricing
-![Pricing](https://github.com/user-attachments/assets/5854e756-2021-4c0f-98b6-5afd9ceba28e)
-
-### Footer
-![Footer](https://github.com/user-attachments/assets/3392766a-7e40-45d9-a1d9-c8547ea22a6c)
-
-**Note**: For an optimal viewing experience, the zoom size has been decreased (less than 100%) for some pages' screenshots. 
-
 ## Technologies Used
 
 - **HTML5**: For structuring content.
@@ -109,7 +80,7 @@ Omnifood/
 ├── css/
 │   ├── general.css
 │   ├── queries.css
-│   ├── styles.css 
+│   └── styles.css 
 ├── images/
 │   ├── app/
 │   ├── customers/
@@ -121,7 +92,7 @@ Omnifood/
 │   ├── favicon.png
 │   ├── favicon.ico
 │   ├── hero.png
-│   ├── omnifood-logo.png
+│   └── omnifood-logo.png
 ├── js/
 │   └── script.js
 ├── index.html
@@ -135,6 +106,30 @@ Omnifood/
 - **css/**: Contains all the stylesheet files.
 - **js/**: JavaScript file for adding interactivity.
 
-## License
+## Screenshots
 
-This project is open-source and available under the **MIT License**.
+### Homepage
+![Homepage](https://github.com/user-attachments/assets/c0e14fc5-16a6-4361-87b9-a18373556b6d)
+
+### Featured In Section
+![Featured In Section](https://github.com/user-attachments/assets/a5144c45-9b09-4690-aa95-cb1da221a0a0)
+
+### How it works
+![How it works](https://github.com/user-attachments/assets/75b7d4d4-e6ef-4980-97fd-70b314163b37)
+![How it works](https://github.com/user-attachments/assets/91c8bc20-e5c2-4121-af1a-f6603b367436)
+![How it works](https://github.com/user-attachments/assets/07abf274-1efd-45bb-9032-177339534ea5)
+
+### Meal Section
+![Meal Section](https://github.com/user-attachments/assets/1e4782cf-2e2d-4307-bd1c-eb83dbbad800)
+
+### Testimonials
+![Testimonials](https://github.com/user-attachments/assets/32e091e5-a70c-4826-8867-c6635287a9c9)
+![Testimonials](https://github.com/user-attachments/assets/fcdf2519-9aaf-4d33-93fa-9c9cc632fc9f)
+
+### Pricing
+![Pricing](https://github.com/user-attachments/assets/5854e756-2021-4c0f-98b6-5afd9ceba28e)
+
+### Footer
+![Footer](https://github.com/user-attachments/assets/3392766a-7e40-45d9-a1d9-c8547ea22a6c)
+
+**Note**: For an optimal viewing experience, the zoom size has been decreased (less than 100%) for some pages' screenshots. 
