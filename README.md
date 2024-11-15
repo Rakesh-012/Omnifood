@@ -132,4 +132,4 @@ Omnifood/
 ### Footer
 ![Footer](https://github.com/user-attachments/assets/3392766a-7e40-45d9-a1d9-c8547ea22a6c)
 
-**Note**: For an optimal viewing experience, the zoom size has been decreased (less than 100%) for some pages' screenshots. 
+**Note**: For an optimal viewing experience, the zoom size has been decreased (less than 100%) for some screenshots. 
